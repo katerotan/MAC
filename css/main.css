@@ -19,9 +19,6 @@ body {
         -ms-flex-align: center;
             align-items: center;
   }
-  .first-action {
-    border: solid 1px violet;
-  }
   .title {
     display: block;
     margin: 0;
