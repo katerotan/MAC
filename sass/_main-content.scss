@@ -1,49 +1,73 @@
-// ---------------Main CSS-------------
-.container {
-  max-width: 430px;
-  // padding-left: 55px;
-  // padding-right: 55px;
-  border: solid 1px blue;
-  overflow: hidden;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 body {
-  background-color: #fffdf4;
+  background-color: cadetblue;
 }
-// ---------------Page Index.html-------------
 
-.main-title {
-  font-family: 'Junge', cursive;
-  font-size: 39px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
+@media screen and (max-width: 430px) {
+  .container {
+    background-color: #fffdf4;
+    height: 100vh;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-  text-align: center;
+  .first-action {
+    border: solid 1px violet;
+  }
 
-  margin-top: 283px;
-  margin-bottom: 0;
-}
-.big-btn {
-  display: block;
-  width: 200px;
-  height: 200px;
-  margin-top: 35px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.under-big-btn {
-  color: rgba(11, 175, 186, 0.86);
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  font-family: 'Junge', cursive;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
+  .title {
+    display: block;
+    margin: 0;
+    // border: solid 1px yellow;
+    text-align: center;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 300;
+    font-size: 39px;
+  }
 
-  text-align: center;
+  .btn {
+    max-width: 200px;
+    height: 200px;
+    // background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
-  margin-top: 35px;
+  .press-to-start {
+    display: block;
+    // border: solid 1px black;
+    text-align: center;
+    margin: 0;
+    font-family: 'Ysabeau', sans-serif;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 300;
+    font-size: 20px;
+    color: rgba(11, 175, 186, 0.86);
+  }
+
+  footer {
+    padding-bottom: 20px;
+    // border: solid 1px green;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    // position: relative;
+  }
+  .creator-name {
+    // border: solid 1px blue;
+    text-align: center;
+    margin: 0;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 200;
+    font-size: 10px;
+  }
 }
