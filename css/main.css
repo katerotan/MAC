@@ -1,13 +1,11 @@
-@charset "UTF-8";
 body {
   background-color: cadetblue;
-  padding-top: 50px; /* Высота вашего верхнего бара */
 }
 
 @media screen and (max-width: 430px) {
   .container {
     background-color: #fffdf4;
-    height: 100vh;
+    height: calc(100vh - 50px);
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
