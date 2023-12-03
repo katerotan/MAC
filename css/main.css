@@ -12,8 +12,8 @@
 
 .footer-on-index {
   background-image: url("../images/Mandala_logo_100x100_b6adad_3.png");
-  background-size: auto;
-  background-position: bottom;
+  background-size: contain;
+  background-position: bottom center;
   background-repeat: no-repeat;
 }
 
