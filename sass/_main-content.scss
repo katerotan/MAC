@@ -1,11 +1,12 @@
 // ---------------Main CSS-------------
 .container {
-  width: 100vw;
-  height: 100vh;
+  width: 430px;
   // padding-left: 55px;
   // padding-right: 55px;
   border: solid 1px blue;
   overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
@@ -14,7 +15,7 @@ body {
 // ---------------Page Index.html-------------
 
 .main-title {
-  font-family: 'Candara';
+  font-family: 'Junge', cursive;
   font-size: 39px;
   font-style: normal;
   font-weight: 400;
@@ -36,7 +37,7 @@ body {
 .under-big-btn {
   color: rgba(11, 175, 186, 0.86);
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  font-family: 'Candara';
+  font-family: 'Junge', cursive;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -45,7 +46,4 @@ body {
   text-align: center;
 
   margin-top: 35px;
-}
-.star {
-  z-index: -1000;
 }
