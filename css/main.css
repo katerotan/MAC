@@ -100,7 +100,6 @@ body {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    overflow: hidden;
   }
   .title {
     display: block;
@@ -145,7 +144,6 @@ body {
     background-repeat: no-repeat, no-repeat;
     background-size: 45vh, 50vh;
     background-position: 10vh 50vh, 15vh 15vh;
-    overflow: hidden;
   }
   .main-menu {
     margin: 0;
