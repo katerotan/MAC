@@ -87,7 +87,6 @@ body {
 @media screen and (max-width: 430px) {
   .container {
     background-color: #fffdf4;
-    height: 100vh;
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
@@ -100,6 +99,7 @@ body {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    overflow: hidden;
   }
   .title {
     display: block;
@@ -138,12 +138,12 @@ body {
   }
   .container2 {
     background-color: #fffdf4;
-    height: 100vh;
     padding: 0;
     background-image: url("../images/girls.png"), url("../images/half_mandala.svg");
     background-repeat: no-repeat, no-repeat;
     background-size: 45vh, 50vh;
     background-position: 10vh 50vh, 15vh 15vh;
+    overflow: hidden;
   }
   .main-menu {
     margin: 0;
