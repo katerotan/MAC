@@ -106,7 +106,7 @@ body {
     background-color: #fffdf4;
     height: 100vh;
     padding: 0;
-    background-image: url("/images/girls.png"), url("/images/half_mandala.svg");
+    background-image: url("../images/girls.png"), url("../images/half_mandala.svg");
     background-repeat: no-repeat, no-repeat;
     background-size: 50vh, 50vh;
     background-position: bottom, 15vh 15vh;
