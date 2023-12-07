@@ -1,0 +1,29 @@
+@media screen and (max-width: 430px) {
+  .header {
+    border: solid 1px rgb(9, 255, 0);
+    margin: 0;
+  }
+
+  .header-title {
+    margin-top: 2vh;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 300;
+    font-size: 35px;
+    color: black;
+  }
+
+  .header-btn {
+    max-width: 80px;
+    height: 80px;
+    // background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7vh;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

@@ -1,4 +1,36 @@
 @media screen and (max-width: 430px) {
+  .header {
+    border: solid 1px rgb(9, 255, 0);
+    margin: 0;
+  }
+  .header-title {
+    margin-top: 2vh;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: "Ysabeau", sans-serif;
+    font-weight: 300;
+    font-size: 35px;
+    color: black;
+  }
+  .header-btn {
+    max-width: 80px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7vh;
+    margin-bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+@media screen and (max-width: 430px) {
   .footer-index {
     padding-bottom: 20px;
     position: absolute;
@@ -21,7 +53,7 @@ body {
 @media screen and (max-width: 430px) {
   .container {
     background-color: #fffdf4;
-    height: calc(100vh - 50px);
+    height: 100vh;
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
@@ -70,18 +102,46 @@ body {
     font-size: 20px;
     color: rgba(11, 175, 186, 0.86);
   }
-  footer {
-    padding-bottom: 20px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+  .container2 {
+    background-color: #fffdf4;
+    height: 100vh;
+    padding: 0;
+    background-image: url("/images/girls.png"), url("/images/half_mandala.svg");
+    background-repeat: no-repeat, no-repeat;
+    background-size: 50vh, 50vh;
+    background-position: bottom, 15vh 15vh;
   }
-  .creator-name {
-    text-align: center;
+  .main-menu {
+    border: solid 1px red;
     margin: 0;
+    padding-top: 1vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+  }
+  .manue {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
     font-family: "Ysabeau", sans-serif;
-    font-weight: 200;
-    font-size: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+  }
+  .menue-list {
+    margin-top: 5vh;
+    padding: 0;
+    list-style: none;
+  }
+  .menue-item {
+    margin-top: 3vh;
+    padding: 0;
+  }
+  .menue-item a {
+    text-decoration: none;
+    font-family: "Ysabeau", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: black;
   }
 }/*# sourceMappingURL=main.css.map */

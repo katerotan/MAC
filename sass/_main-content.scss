@@ -5,7 +5,8 @@ body {
 @media screen and (max-width: 430px) {
   .container {
     background-color: #fffdf4;
-    height: calc(100vh - 50px);
+    // height: calc(100vh - 50px);
+    height: 100vh;
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
@@ -18,6 +19,7 @@ body {
   //   border: solid 1px violet;
   // }
 
+  // --------------------------------Index screen---------------------------
   .title {
     display: block;
     margin: 0;
@@ -53,21 +55,50 @@ body {
     color: rgba(11, 175, 186, 0.86);
   }
 
-  footer {
-    padding-bottom: 20px;
-    // border: solid 1px green;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    // position: relative;
+  // ------------------------------MAIN MENUE PAGE---------------------
+
+  .container2 {
+    background-color: #fffdf4;
+    // height: calc(100vh - 50px);
+    height: 100vh;
+    padding: 0;
+    background-image: url('/images/girls.png'), url('/images/half_mandala.svg');
+    background-repeat: no-repeat, no-repeat;
+    background-size: 50vh, 50vh;
+    background-position: bottom, 15vh 15vh;
   }
-  .creator-name {
-    // border: solid 1px blue;
-    text-align: center;
+
+  .main-menu {
+    border: solid 1px red;
     margin: 0;
+    padding-top: 1vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+  }
+  .manue {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
     font-family: 'Ysabeau', sans-serif;
-    font-weight: 200;
-    font-size: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+  }
+  .menue-list {
+    margin-top: 5vh;
+    padding: 0;
+    list-style: none;
+  }
+  .menue-item {
+    margin-top: 3vh;
+    padding: 0;
+  }
+  .menue-item a {
+    text-decoration: none;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: black;
   }
 }
