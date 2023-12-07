@@ -124,9 +124,9 @@ body {
   // ------------------------------ABOUT METHOD PAGE---------------------
   .container3 {
     background-color: #fffdf4;
-    // height: calc(100vh - 50px);
-    border: solid 1px blue;
-    height: 100vh;
+    // border: solid 1px blue;
+    display: flex;
+    flex-direction: column;
     padding: 0;
     background-image: url('../images/half_mandala.svg');
     background-repeat: no-repeat;
@@ -143,9 +143,16 @@ body {
     height: 20vh;
     margin-top: 2vh;
     margin-bottom: 2vh;
+    display: flex;
+    justify-content: center;
+  }
+  .deck_of_cards svg {
+    display: inline-block;
   }
 
   .about_methods {
+    display: inline-block;
+    height: 30vh;
     color: #000;
     font-family: Verdana, sans-serif;
     font-size: 16px;
