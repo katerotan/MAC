@@ -1,6 +1,5 @@
 @media screen and (max-width: 430px) {
   .header {
-    border: solid 1px rgb(9, 255, 0);
     margin: 0;
   }
   .header-title {
@@ -108,11 +107,11 @@ body {
     padding: 0;
     background-image: url("../images/girls.png"), url("../images/half_mandala.svg");
     background-repeat: no-repeat, no-repeat;
-    background-size: 50vh, 50vh;
-    background-position: bottom, 15vh 15vh;
+    background-size: 45vh, 50vh;
+    background-position: 10vh 50vh, 15vh 15vh;
+    overflow: hidden;
   }
   .main-menu {
-    border: solid 1px red;
     margin: 0;
     padding-top: 1vh;
     padding-left: 5vh;
