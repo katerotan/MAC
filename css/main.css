@@ -7,7 +7,7 @@
     margin-bottom: 0;
     text-align: center;
     font-family: "Ysabeau", sans-serif;
-    font-weight: 300;
+    font-weight: 200;
     font-size: 35px;
     color: black;
   }
@@ -65,6 +65,7 @@ body {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    overflow: hidden;
   }
   .title {
     display: block;
@@ -113,11 +114,20 @@ body {
   }
   .main-menu {
     margin: 0;
-    padding-top: 1vh;
+    padding-top: 2vh;
     padding-left: 5vh;
     padding-right: 5vh;
   }
+  .menue-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    padding-left: 9%;
+  }
   .manue {
+    position: absolute;
+    right: 37%;
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -128,7 +138,7 @@ body {
     color: black;
   }
   .menue-list {
-    margin-top: 5vh;
+    margin-top: 4vh;
     padding: 0;
     list-style: none;
   }
@@ -140,7 +150,34 @@ body {
     text-decoration: none;
     font-family: "Ysabeau", sans-serif;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
+  }
+  .container3 {
+    background-color: #fffdf4;
+    border: solid 1px blue;
+    height: 100vh;
+    padding: 0;
+    background-image: url("../images/half_mandala.svg");
+    background-repeat: no-repeat;
+    background-size: 50vh;
+    background-position: 15vh 15vh;
+    overflow: hidden;
+  }
+  .position {
+    right: 20%;
+  }
+  .deck_of_cards {
+    height: 20vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+  }
+  .about_methods {
+    color: #000;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
   }
 }/*# sourceMappingURL=main.css.map */
