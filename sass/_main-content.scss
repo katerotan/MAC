@@ -4,11 +4,11 @@ body {
 
 @media screen and (max-width: 430px) {
   .container {
+    padding-top: 23vh;
     background-color: #fffdf4;
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
-    display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
@@ -19,6 +19,12 @@ body {
   // }
 
   // --------------------------------Index screen---------------------------
+
+  .first-action {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px yellow;
+  }
   .title {
     display: block;
     margin: 0;
@@ -59,6 +65,7 @@ body {
   .container2 {
     background-color: #fffdf4;
     padding: 0;
+    height: 93vh;
     background-image: url('../images/girls.png'), url('../images/half_mandala.svg');
     background-repeat: no-repeat, no-repeat;
     background-size: 45vh, 50vh;
