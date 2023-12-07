@@ -203,9 +203,8 @@ body {
     right: 20%;
   }
   .deck_of_cards {
-    height: 20vh;
+    height: 17vh;
     margin-top: 2vh;
-    margin-bottom: 2vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -215,10 +214,11 @@ body {
   }
   .deck_of_cards svg {
     display: inline-block;
+    height: 17vh;
   }
   .about_methods {
     display: inline-block;
-    height: 30vh;
+    height: 36vh;
     color: #000;
     font-family: Verdana, sans-serif;
     font-size: 16px;
