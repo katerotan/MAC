@@ -87,7 +87,6 @@ body {
 @media screen and (max-width: 430px) {
   .container {
     background-color: #fffdf4;
-    height: 100vh;
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
@@ -138,7 +137,6 @@ body {
   }
   .container2 {
     background-color: #fffdf4;
-    height: 100vh;
     padding: 0;
     background-image: url("../images/girls.png"), url("../images/half_mandala.svg");
     background-repeat: no-repeat, no-repeat;
