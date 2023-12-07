@@ -107,7 +107,6 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    border: solid 1px yellow;
   }
   .title {
     display: block;
@@ -147,7 +146,7 @@ body {
   .container2 {
     background-color: #fffdf4;
     padding: 0;
-    height: 93vh;
+    height: 92vh;
     background-image: url("../images/girls.png"), url("../images/half_mandala.svg");
     background-repeat: no-repeat, no-repeat;
     background-size: 45vh, 50vh;
