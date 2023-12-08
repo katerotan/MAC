@@ -148,10 +148,10 @@ body {
     background-color: #fffdf4;
     padding: 0;
     height: 92vh;
-    background-image: url("../images/girls.png"), url("../images/half_mandala.svg");
+    background-image: url("../images/picture.svg"), url("../images/half_mandala.svg");
     background-repeat: no-repeat, no-repeat;
-    background-size: 70vw, 50vh;
-    background-position: 30vw 60vh, 15vh 15vh;
+    background-size: 110vw, 50vh;
+    background-position: -5vw 60vh, 15vh 15vh;
     overflow: hidden;
   }
   .main-menu {
@@ -239,4 +239,11 @@ body {
     line-height: normal;
     overflow-y: scroll;
   }
+}
+.position2 {
+  right: 39%;
+}
+
+.position3 {
+  right: 35%;
 }/*# sourceMappingURL=main.css.map */
