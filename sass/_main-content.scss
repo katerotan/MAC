@@ -2,7 +2,7 @@ body {
   background-color: #fffdf4;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  // height: 100vh;
   overflow-y: hidden;
 
   margin: 0;
@@ -13,7 +13,7 @@ body {
   .container {
     margin: 0;
     padding: 5% 10% 10% 10%;
-    height: 100%;
+    height: 100vh;
     position: relative;
     // border: solid 2px red;
   }
