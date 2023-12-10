@@ -389,6 +389,9 @@ body {
     text-shadow: 0px 0px 44px #ed00ff;
     color: rgb(11, 175, 186);
   }
+  .spresds-content a {
+    text-decoration: none;
+  }
 }
 @media screen and (max-width: 430px) {
   .long_body {
