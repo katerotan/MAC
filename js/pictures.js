@@ -1,9 +1,9 @@
 const images = [
     {
       preview:
-        './images/allegories-deck/allegories_00.jpg',
+        '../images/allegories-deck/allegories_00.jpg',
       original:
-        './images/allegories-deck/allegories_00.jpg',
+        '../images/allegories-deck/allegories_00.jpg',
     },
     {
       preview:
