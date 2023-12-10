@@ -457,4 +457,43 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
   }
+}
+.spread {
+  margin-top: 3vh;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.question-text {
+  margin: 0;
+  padding: 0;
+  font-family: "Ysabeau", sans-serif;
+  font-weight: 700;
+  font-size: 1em;
+  color: black;
+  text-align: center;
+  margin-top: 1vh;
+}
+
+.deck-cover-questionair {
+  margin-top: 2vh;
+  width: 80px;
+  height: 17vh;
+  border-radius: 11px;
+  margin-right: 2vw;
+  cursor: pointer;
+  background: url("../images/mandala.svg"), -webkit-gradient(linear, left top, left bottom, color-stop(0.09%, #5b5a8f), color-stop(99.91%, #c18fc5));
+  background: url("../images/mandala.svg"), linear-gradient(180deg, #5b5a8f 0.09%, #c18fc5 99.91%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 80%, contain;
+  background-position: center center, center bottom;
 }/*# sourceMappingURL=main.css.map */
