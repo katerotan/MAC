@@ -1,51 +1,51 @@
 const images = [
     {
       preview:
-        '../images/allegories-deck/allegories_00.jpg',
+        './images/allegories-deck/allegories_00.jpg',
       original:
-        '../images/allegories-deck/allegories_00.jpg',
+        './images/allegories-deck/allegories_00.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_01.jpg',
+        './images/allegories-deck/allegories_01.jpg',
       original:
-        '/images/allegories-deck/allegories_01.jpg',
+        './images/allegories-deck/allegories_01.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_02.jpg',
+        './images/allegories-deck/allegories_02.jpg',
       original:
-        '/images/allegories-deck/allegories_02.jpg',
+        './images/allegories-deck/allegories_02.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_03.jpg',
+        './images/allegories-deck/allegories_03.jpg',
       original:
-        '/images/allegories-deck/allegories_03.jpg',
+        './images/allegories-deck/allegories_03.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_04.jpg',
+        './images/allegories-deck/allegories_04.jpg',
       original:
-        '/images/allegories-deck/allegories_04.jpg',
+        './images/allegories-deck/allegories_04.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_05.jpg',
+        './images/allegories-deck/allegories_05.jpg',
       original:
-        '/images/allegories-deck/allegories_05.jpg',
+        './images/allegories-deck/allegories_05.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_06.jpg',
+        './images/allegories-deck/allegories_06.jpg',
       original:
-        '/images/allegories-deck/allegories_06.jpg',
+        './images/allegories-deck/allegories_06.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_07.jpg',
+        './images/allegories-deck/allegories_07.jpg',
       original:
-        '/images/allegories-deck/allegories_07.jpg',
+        './images/allegories-deck/allegories_07.jpg',
     },
     {
       preview:
