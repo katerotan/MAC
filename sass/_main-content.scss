@@ -1,5 +1,5 @@
 body {
-  background-color: #fffdf4;
+  background-color: var(--background-color);
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -251,7 +251,7 @@ body {
   .deck-article1 {
     font-family: 'Ysabeau', sans-serif;
     font-weight: 400;
-    font-size: 55%;
+    font-size: 65%;
     color: black;
     line-height: 1;
     margin-top: 1vh;
@@ -259,7 +259,7 @@ body {
   .deck-article2 {
     font-family: 'Ysabeau', sans-serif;
     font-weight: 400;
-    font-size: 55%;
+    font-size: 65%;
     line-height: 1;
     color: black;
     margin-top: 1vh;
