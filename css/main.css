@@ -193,9 +193,9 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Ysabeau", sans-serif;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 1.5em;
-    color: black;
+    color: rgb(11, 175, 186);
     text-align: center;
   }
   .illustration {
@@ -305,15 +305,70 @@ body {
   .deck-article1 {
     font-family: "Ysabeau", sans-serif;
     font-weight: 400;
-    font-size: 50%;
+    font-size: 55%;
     color: black;
+    line-height: 1;
     margin-top: 1vh;
   }
   .deck-article2 {
     font-family: "Ysabeau", sans-serif;
     font-weight: 400;
-    font-size: 50%;
+    font-size: 55%;
+    line-height: 1;
     color: black;
     margin-top: 1vh;
+  }
+  .spresds-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 4vh;
+  }
+  .spresds-item {
+    margin: 0;
+    padding: 0;
+    margin-top: 2vh;
+  }
+  .spresds-content {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .spresds-item:first-child {
+    margin-top: 0vh;
+  }
+  .bullet {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 30px;
+    background: url("../images/Ellipse.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+  }
+  .spresds-item-title {
+    margin: 0;
+    padding: 0;
+    font-family: "Ysabeau", sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: black;
+    text-align: center;
+    margin-top: 1vh;
+  }
+  .spresds-item-description {
+    margin: 0;
+    padding: 0;
+    font-family: "Ysabeau", sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    color: black;
+    text-align: center;
+    margin-top: 1vh;
+  }
+  .accent {
+    text-shadow: 0px 0px 44px #ed00ff;
+    color: rgb(11, 175, 186);
   }
 }/*# sourceMappingURL=main.css.map */
