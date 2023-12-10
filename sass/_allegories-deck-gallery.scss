@@ -1,0 +1,60 @@
+@media screen and (max-width: 430px) {
+  .long_body {
+    height: 100%;
+  }
+
+  .gallery {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .gallery-item {
+    margin: 8px;
+    overflow: hidden;
+    width: 80px;
+    list-style: none;
+  }
+
+  .gallery-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .gallery-image {
+    width: 100%;
+    height: auto;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+  }
+
+  /* Стилі для модального вікна */
+  .basicLightbox {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.89);
+    z-index: 1000;
+    overflow: auto;
+  }
+
+  .basicLightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    border-radius: 18px;
+  }
+
+  /* Затемнення тла при відкритті модального вікна */
+  .basicLightbox--visible {
+    display: flex;
+    justify-content: center;
+  }
+}
