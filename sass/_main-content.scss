@@ -125,16 +125,22 @@ body {
 
   // -------------------------------ABOUT METHOD PAGE------------------------------------
   .illustration {
-    margin-top: 3vh;
+    margin-top: 2vh;
     width: 100%;
     height: 100px;
     background-color: #c18fc5;
+    background: url('../images/picture.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
   }
   .about_method {
+    height: 47vh;
     list-style: none;
     margin-top: 2vh;
     padding: 0;
     overflow-y: scroll;
+    // border: solid 2px red;
   }
   .about_method_item {
     margin-top: 3vh;
@@ -177,11 +183,12 @@ body {
   }
 
   .decks-item {
-    border: solid 2px green;
+    // border: solid 2px green;
     margin-top: 2vh;
   }
 
   .decks-item-link {
+    text-decoration: none;
     width: 100%;
     height: 17.8vh;
     border-radius: 11px;
