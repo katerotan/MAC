@@ -49,504 +49,503 @@ const images = [
     },
     {
       preview:
-        '/images/allegories-deck/allegories_08.jpg',
+        './images/allegories-deck/allegories_08.jpg',
       original:
-        '/images/allegories-deck/allegories_08.jpg',
+        './images/allegories-deck/allegories_08.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_09.jpg',
+        './images/allegories-deck/allegories_09.jpg',
       original:
-        '/images/allegories-deck/allegories_09.jpg',
+        './images/allegories-deck/allegories_09.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_010.jpg',
+        './images/allegories-deck/allegories_010.jpg',
       original:
-        '/images/allegories-deck/allegories_010.jpg',
+        './images/allegories-deck/allegories_010.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_011.jpg',
+        './images/allegories-deck/allegories_011.jpg',
       original:
-        '/images/allegories-deck/allegories_011.jpg',
+        './images/allegories-deck/allegories_011.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_012.jpg',
+        './images/allegories-deck/allegories_012.jpg',
       original:
-        '/images/allegories-deck/allegories_012.jpg',
+        './images/allegories-deck/allegories_012.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_013.jpg',
+        './images/allegories-deck/allegories_013.jpg',
       original:
-        '/images/allegories-deck/allegories_013.jpg',
+        './images/allegories-deck/allegories_013.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_014.jpg',
+        './images/allegories-deck/allegories_014.jpg',
       original:
-        '/images/allegories-deck/allegories_014.jpg',
+        './images/allegories-deck/allegories_014.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_015.jpg',
+        './images/allegories-deck/allegories_015.jpg',
       original:
-        '/images/allegories-deck/allegories_015.jpg',
+        './images/allegories-deck/allegories_015.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_016.jpg',
+        './images/allegories-deck/allegories_016.jpg',
       original:
-        '/images/allegories-deck/allegories_016.jpg',
+        './images/allegories-deck/allegories_016.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_017.jpg',
+        './images/allegories-deck/allegories_017.jpg',
       original:
-        '/images/allegories-deck/allegories_017.jpg',
+        './images/allegories-deck/allegories_017.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_018.jpg',
+        './images/allegories-deck/allegories_018.jpg',
       original:
-        '/images/allegories-deck/allegories_018.jpg',
+        './images/allegories-deck/allegories_018.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_019.jpg',
+        './images/allegories-deck/allegories_019.jpg',
       original:
-        '/images/allegories-deck/allegories_019.jpg',
+        './images/allegories-deck/allegories_019.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_020.jpg',
+        './images/allegories-deck/allegories_020.jpg',
       original:
-        '/images/allegories-deck/allegories_020.jpg',
+        './images/allegories-deck/allegories_020.jpg',
     }, 
    
     {
       preview:
-        '/images/allegories-deck/allegories_023.jpg',
+        './images/allegories-deck/allegories_023.jpg',
       original:
-        '/images/allegories-deck/allegories_023.jpg',
+        './images/allegories-deck/allegories_023.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_024.jpg',
+        './images/allegories-deck/allegories_024.jpg',
       original:
-        '/images/allegories-deck/allegories_024.jpg',
+        './images/allegories-deck/allegories_024.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_025.jpg',
+        './images/allegories-deck/allegories_025.jpg',
       original:
-        '/images/allegories-deck/allegories_025.jpg',
+        './images/allegories-deck/allegories_025.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_026.jpg',
+        './images/allegories-deck/allegories_026.jpg',
       original:
-        '/images/allegories-deck/allegories_026.jpg',
+        './images/allegories-deck/allegories_026.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_027.jpg',
+        './images/allegories-deck/allegories_027.jpg',
       original:
-        '/images/allegories-deck/allegories_027.jpg',
+        './images/allegories-deck/allegories_027.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_028.jpg',
+        './images/allegories-deck/allegories_028.jpg',
       original:
-        '/images/allegories-deck/allegories_028.jpg',
+        './images/allegories-deck/allegories_028.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_029.jpg',
+        './images/allegories-deck/allegories_029.jpg',
       original:
-        '/images/allegories-deck/allegories_029.jpg',
+        './images/allegories-deck/allegories_029.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_030.jpg',
+        './images/allegories-deck/allegories_030.jpg',
       original:
-        '/images/allegories-deck/allegories_030.jpg',
+        './images/allegories-deck/allegories_030.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_031.jpg',
+        './images/allegories-deck/allegories_031.jpg',
       original:
-        '/images/allegories-deck/allegories_031.jpg',
+        './images/allegories-deck/allegories_031.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_032.jpg',
+        './images/allegories-deck/allegories_032.jpg',
       original:
-        '/images/allegories-deck/allegories_032.jpg',
+        './images/allegories-deck/allegories_032.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_033.jpg',
+        './images/allegories-deck/allegories_033.jpg',
       original:
-        '/images/allegories-deck/allegories_033.jpg',
+        './images/allegories-deck/allegories_033.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_034.jpg',
+        './images/allegories-deck/allegories_034.jpg',
       original:
-        '/images/allegories-deck/allegories_034.jpg',
+        './images/allegories-deck/allegories_034.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_035.jpg',
+        './images/allegories-deck/allegories_035.jpg',
       original:
-        '/images/allegories-deck/allegories_035.jpg',
+        './images/allegories-deck/allegories_035.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_036.jpg',
+        './images/allegories-deck/allegories_036.jpg',
       original:
-        '/images/allegories-deck/allegories_036.jpg',
+        './images/allegories-deck/allegories_036.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_037.jpg',
+        './images/allegories-deck/allegories_037.jpg',
       original:
-        '/images/allegories-deck/allegories_037.jpg',
+        './images/allegories-deck/allegories_037.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_038.jpg',
+        './images/allegories-deck/allegories_038.jpg',
       original:
-        '/images/allegories-deck/allegories_038.jpg',
+        './images/allegories-deck/allegories_038.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_039.jpg',
+        './images/allegories-deck/allegories_039.jpg',
       original:
-        '/images/allegories-deck/allegories_039.jpg',
+        './images/allegories-deck/allegories_039.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_040.jpg',
+        './images/allegories-deck/allegories_040.jpg',
       original:
-        '/images/allegories-deck/allegories_040.jpg',
+        './images/allegories-deck/allegories_040.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_041.jpg',
+        './images/allegories-deck/allegories_041.jpg',
       original:
-        '/images/allegories-deck/allegories_041.jpg',
+        './images/allegories-deck/allegories_041.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_042.jpg',
+        './images/allegories-deck/allegories_042.jpg',
       original:
-        '/images/allegories-deck/allegories_042.jpg',
+        './images/allegories-deck/allegories_042.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_043.jpg',
+        './images/allegories-deck/allegories_043.jpg',
       original:
-        '/images/allegories-deck/allegories_043.jpg',
+        './images/allegories-deck/allegories_043.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_044.jpg',
+        './images/allegories-deck/allegories_044.jpg',
       original:
-        '/images/allegories-deck/allegories_044.jpg',
+        './images/allegories-deck/allegories_044.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_045.jpg',
+        './images/allegories-deck/allegories_045.jpg',
       original:
-        '/images/allegories-deck/allegories_045.jpg',
+        './images/allegories-deck/allegories_045.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_046.jpg',
+        './images/allegories-deck/allegories_046.jpg',
       original:
-        '/images/allegories-deck/allegories_046.jpg',
+        './images/allegories-deck/allegories_046.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_047.jpg',
+        './images/allegories-deck/allegories_047.jpg',
       original:
-        '/images/allegories-deck/allegories_047.jpg',
+        './images/allegories-deck/allegories_047.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_048.jpg',
+        './images/allegories-deck/allegories_048.jpg',
       original:
-        '/images/allegories-deck/allegories_048.jpg',
+        './images/allegories-deck/allegories_048.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_049.jpg',
+        './images/allegories-deck/allegories_049.jpg',
       original:
-        '/images/allegories-deck/allegories_049.jpg',
+        './images/allegories-deck/allegories_049.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_050.jpg',
+        './images/allegories-deck/allegories_050.jpg',
       original:
-        '/images/allegories-deck/allegories_050.jpg',
+        './images/allegories-deck/allegories_050.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_051.jpg',
+        './images/allegories-deck/allegories_051.jpg',
       original:
-        '/images/allegories-deck/allegories_051.jpg',
+        './images/allegories-deck/allegories_051.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_052.jpg',
+        './images/allegories-deck/allegories_052.jpg',
       original:
-        '/images/allegories-deck/allegories_052.jpg',
+        './images/allegories-deck/allegories_052.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_053.jpg',
+        './images/allegories-deck/allegories_053.jpg',
       original:
-        '/images/allegories-deck/allegories_053.jpg',
+        './images/allegories-deck/allegories_053.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_054.jpg',
+        './images/allegories-deck/allegories_054.jpg',
       original:
-        '/images/allegories-deck/allegories_054.jpg',
+        './images/allegories-deck/allegories_054.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_055.jpg',
+        './images/allegories-deck/allegories_055.jpg',
       original:
-        '/images/allegories-deck/allegories_055.jpg',
+        './images/allegories-deck/allegories_055.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_056.jpg',
+        './images/allegories-deck/allegories_056.jpg',
       original:
-        '/images/allegories-deck/allegories_056.jpg',
+        './images/allegories-deck/allegories_056.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_057.jpg',
+        './images/allegories-deck/allegories_057.jpg',
       original:
-        '/images/allegories-deck/allegories_057.jpg',
+        './images/allegories-deck/allegories_057.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_058.jpg',
+        './images/allegories-deck/allegories_058.jpg',
       original:
-        '/images/allegories-deck/allegories_058.jpg',
+        './images/allegories-deck/allegories_058.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_059.jpg',
+        './images/allegories-deck/allegories_059.jpg',
       original:
-        '/images/allegories-deck/allegories_059.jpg',
+        './images/allegories-deck/allegories_059.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_060.jpg',
+        './images/allegories-deck/allegories_060.jpg',
       original:
-        '/images/allegories-deck/allegories_060.jpg',
+        './images/allegories-deck/allegories_060.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_061.jpg',
+        './images/allegories-deck/allegories_061.jpg',
       original:
-        '/images/allegories-deck/allegories_061.jpg',
+        './images/allegories-deck/allegories_061.jpg',
     },
 
-
     {
       preview:
-        '/images/allegories-deck/allegories_062.jpg',
+        './images/allegories-deck/allegories_062.jpg',
       original:
-        '/images/allegories-deck/allegories_062.jpg',
+        './images/allegories-deck/allegories_062.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_063.jpg',
+        './images/allegories-deck/allegories_063.jpg',
       original:
-        '/images/allegories-deck/allegories_063.jpg',
+        './images/allegories-deck/allegories_063.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_064.jpg',
+        './images/allegories-deck/allegories_064.jpg',
       original:
-        '/images/allegories-deck/allegories_064.jpg',
+        './images/allegories-deck/allegories_064.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_065.jpg',
+        './images/allegories-deck/allegories_065.jpg',
       original:
-        '/images/allegories-deck/allegories_065.jpg',
+        './images/allegories-deck/allegories_065.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_066.jpg',
+        './images/allegories-deck/allegories_066.jpg',
       original:
-        '/images/allegories-deck/allegories_066.jpg',
+        './images/allegories-deck/allegories_066.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_067.jpg',
+        './images/allegories-deck/allegories_067.jpg',
       original:
-        '/images/allegories-deck/allegories_067.jpg',
+        './images/allegories-deck/allegories_067.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_068.jpg',
+        './images/allegories-deck/allegories_068.jpg',
       original:
-        '/images/allegories-deck/allegories_068.jpg',
+        './images/allegories-deck/allegories_068.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_069.jpg',
+        './images/allegories-deck/allegories_069.jpg',
       original:
-        '/images/allegories-deck/allegories_069.jpg',
+        './images/allegories-deck/allegories_069.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_070.jpg',
+        './images/allegories-deck/allegories_070.jpg',
       original:
-        '/images/allegories-deck/allegories_070.jpg',
+        './images/allegories-deck/allegories_070.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_071.jpg',
+        './images/allegories-deck/allegories_071.jpg',
       original:
-        '/images/allegories-deck/allegories_071.jpg',
+        './images/allegories-deck/allegories_071.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_072.jpg',
+        './images/allegories-deck/allegories_072.jpg',
       original:
-        '/images/allegories-deck/allegories_072.jpg',
+        './images/allegories-deck/allegories_072.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_073.jpg',
+        './images/allegories-deck/allegories_073.jpg',
       original:
-        '/images/allegories-deck/allegories_073.jpg',
+        './images/allegories-deck/allegories_073.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_074.jpg',
+        './images/allegories-deck/allegories_074.jpg',
       original:
-        '/images/allegories-deck/allegories_074.jpg',
+        './images/allegories-deck/allegories_074.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_075.jpg',
+        './images/allegories-deck/allegories_075.jpg',
       original:
-        '/images/allegories-deck/allegories_075.jpg',
+        './images/allegories-deck/allegories_075.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_076.jpg',
+        './images/allegories-deck/allegories_076.jpg',
       original:
-        '/images/allegories-deck/allegories_076.jpg',
+        './images/allegories-deck/allegories_076.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_077.jpg',
+        './images/allegories-deck/allegories_077.jpg',
       original:
-        '/images/allegories-deck/allegories_077.jpg',
+        './images/allegories-deck/allegories_077.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_078.jpg',
+        './images/allegories-deck/allegories_078.jpg',
       original:
-        '/images/allegories-deck/allegories_078.jpg',
+        './images/allegories-deck/allegories_078.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_079.jpg',
+        './images/allegories-deck/allegories_079.jpg',
       original:
-        '/images/allegories-deck/allegories_079.jpg',
+        './images/allegories-deck/allegories_079.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_080.jpg',
+        './images/allegories-deck/allegories_080.jpg',
       original:
-        '/images/allegories-deck/allegories_080.jpg',
+        './images/allegories-deck/allegories_080.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_081.jpg',
+        './images/allegories-deck/allegories_081.jpg',
       original:
-        '/images/allegories-deck/allegories_081.jpg',
+        './images/allegories-deck/allegories_081.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_082.jpg',
+        './images/allegories-deck/allegories_082.jpg',
       original:
-        '/images/allegories-deck/allegories_082.jpg',
+        './images/allegories-deck/allegories_082.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_083.jpg',
+        './images/allegories-deck/allegories_083.jpg',
       original:
-        '/images/allegories-deck/allegories_083.jpg',
+        './images/allegories-deck/allegories_083.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_084.jpg',
+        './images/allegories-deck/allegories_084.jpg',
       original:
-        '/images/allegories-deck/allegories_084.jpg',
+        './images/allegories-deck/allegories_084.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_085.jpg',
+        './images/allegories-deck/allegories_085.jpg',
       original:
-        '/images/allegories-deck/allegories_085.jpg',
+        './images/allegories-deck/allegories_085.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_086.jpg',
+        './images/allegories-deck/allegories_086.jpg',
       original:
-        '/images/allegories-deck/allegories_086.jpg',
+        './images/allegories-deck/allegories_086.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_087.jpg',
+        './images/allegories-deck/allegories_087.jpg',
       original:
-        '/images/allegories-deck/allegories_087.jpg',
+        './images/allegories-deck/allegories_087.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_088.jpg',
+        './images/allegories-deck/allegories_088.jpg',
       original:
-        '/images/allegories-deck/allegories_088.jpg',
+        './images/allegories-deck/allegories_088.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_089.jpg',
+        './images/allegories-deck/allegories_089.jpg',
       original:
-        '/images/allegories-deck/allegories_089.jpg',
+        './images/allegories-deck/allegories_089.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_090.jpg',
+        './images/allegories-deck/allegories_090.jpg',
       original:
-        '/images/allegories-deck/allegories_090.jpg',
+        './images/allegories-deck/allegories_090.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_091.jpg',
+        './images/allegories-deck/allegories_091.jpg',
       original:
-        '/images/allegories-deck/allegories_091.jpg',
+        './images/allegories-deck/allegories_091.jpg',
     },
     {
       preview:
-        '/images/allegories-deck/allegories_092.jpg',
+        './images/allegories-deck/allegories_092.jpg',
       original:
-        '/images/allegories-deck/allegories_092.jpg',
+        './images/allegories-deck/allegories_092.jpg',
     },
     {
       preview:
@@ -558,104 +557,104 @@ const images = [
     
     {
       preview:
-        '/images/allegories-deck/allegories_094.jpg',
+        './images/allegories-deck/allegories_094.jpg',
       original:
-        '/images/allegories-deck/allegories_094.jpg',
+        './images/allegories-deck/allegories_094.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_095.jpg',
+        './images/allegories-deck/allegories_095.jpg',
       original:
-        '/images/allegories-deck/allegories_095.jpg',
+        './images/allegories-deck/allegories_095.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_096.jpg',
+        './images/allegories-deck/allegories_096.jpg',
       original:
-        '/images/allegories-deck/allegories_096.jpg',
+        './images/allegories-deck/allegories_096.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_097.jpg',
+        './images/allegories-deck/allegories_097.jpg',
       original:
-        '/images/allegories-deck/allegories_097.jpg',
+        './images/allegories-deck/allegories_097.jpg',
     },
 
     {
       preview:
+        './images/allegories-deck/allegories_098.jpg',
+      original:
         '/images/allegories-deck/allegories_098.jpg',
-      original:
-        '/images/allegories-deck/allegories_098.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_099.jpg',
+        './images/allegories-deck/allegories_099.jpg',
       original:
-        '/images/allegories-deck/allegories_099.jpg',
+        './images/allegories-deck/allegories_099.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_100.jpg',
+        './images/allegories-deck/allegories_100.jpg',
       original:
-        '/images/allegories-deck/allegories_100.jpg',
+        './images/allegories-deck/allegories_100.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_101.jpg',
+        './images/allegories-deck/allegories_101.jpg',
       original:
-        '/images/allegories-deck/allegories_101.jpg',
+        './images/allegories-deck/allegories_101.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_102.jpg',
+        './images/allegories-deck/allegories_102.jpg',
       original:
-        '/images/allegories-deck/allegories_102.jpg',
+        './images/allegories-deck/allegories_102.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_103.jpg',
+        './images/allegories-deck/allegories_103.jpg',
       original:
-        '/images/allegories-deck/allegories_103.jpg',
+        './images/allegories-deck/allegories_103.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_104.jpg',
+        './images/allegories-deck/allegories_104.jpg',
       original:
-        '/images/allegories-deck/allegories_104.jpg',
+        './images/allegories-deck/allegories_104.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_105.jpg',
+        './images/allegories-deck/allegories_105.jpg',
       original:
-        '/images/allegories-deck/allegories_105.jpg',
+        './images/allegories-deck/allegories_105.jpg',
     },
 
     {
       preview:
-        '/images/allegories-deck/allegories_106.jpg',
+        './images/allegories-deck/allegories_106.jpg',
       original:
-        '/images/allegories-deck/allegories_106.jpg',
+        './images/allegories-deck/allegories_106.jpg',
     },
  {
       preview:
-        '/images/allegories-deck/allegories_107.jpg',
+        './images/allegories-deck/allegories_107.jpg',
       original:
-        '/images/allegories-deck/allegories_107.jpg',
+        './images/allegories-deck/allegories_107.jpg',
     }, {
       preview:
-        '/images/allegories-deck/allegories_108.jpg',
+        './images/allegories-deck/allegories_108.jpg',
       original:
-        '/images/allegories-deck/allegories_108.jpg',
+        './images/allegories-deck/allegories_108.jpg',
     },  
     
   ];
