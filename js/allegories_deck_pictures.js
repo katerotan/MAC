@@ -549,9 +549,9 @@ const images = [
     },
     {
       preview:
-        '/images/allegories-deck/allegories_093.jpg',
+        './images/allegories-deck/allegories_093.jpg',
       original:
-        '/images/allegories-deck/allegories_093.jpg',
+        './images/allegories-deck/allegories_093.jpg',
     },
 
     
@@ -587,7 +587,7 @@ const images = [
       preview:
         './images/allegories-deck/allegories_098.jpg',
       original:
-        '/images/allegories-deck/allegories_098.jpg',
+        './images/allegories-deck/allegories_098.jpg',
     },
 
     {

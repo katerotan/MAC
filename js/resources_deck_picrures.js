@@ -549,9 +549,9 @@ const images = [
     },
     {
       preview:
-        '/images/resources-deck/resources_093.jpg',
+        './images/resources-deck/resources_093.jpg',
       original:
-        '/images/resources-deck/resources_093.jpg',
+        './images/resources-deck/resources_093.jpg',
     },
 
     
@@ -587,7 +587,7 @@ const images = [
       preview:
         './images/resources-deck/resources_098.jpg',
       original:
-        '/images/resources-deck/resources_098.jpg',
+        './images/resources-deck/resources_098.jpg',
     },
 
     {
