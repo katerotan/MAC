@@ -416,6 +416,7 @@ body {
     margin: 8px;
     overflow: hidden;
     width: 80px;
+    height: 110px;
     list-style: none;
   }
   .gallery-link {
@@ -458,8 +459,13 @@ body {
             justify-content: center;
   }
 }
+.smaller {
+  font-size: 1em;
+}
+
 .spread {
-  margin-top: 3vh;
+  list-style: none;
+  margin-top: 2vh;
   padding: 0;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -473,21 +479,49 @@ body {
           align-items: center;
 }
 
+.spread-item {
+  margin-top: 2vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.group {
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
 .question-text {
   margin: 0;
   padding: 0;
   font-family: "Ysabeau", sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1em;
   color: black;
   text-align: center;
-  margin-top: 1vh;
 }
 
 .deck-cover-questionair {
-  margin-top: 2vh;
+  margin-top: 1vh;
+  padding: 0;
   width: 80px;
-  height: 17vh;
+  height: 110px;
   border-radius: 11px;
   margin-right: 2vw;
   cursor: pointer;
@@ -496,4 +530,35 @@ body {
   background-repeat: no-repeat, no-repeat;
   background-size: 80%, contain;
   background-position: center center, center bottom;
+}
+
+.reset-btn {
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  width: 100px;
+  height: 30px;
+  border-radius: 11px;
+  border: solid 1px #5b5a8f;
+  background-color: #0bafba;
+  font-family: "Ysabeau", sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+  color: white;
+}
+
+.flex2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.one-line {
+  left: -11vw;
 }/*# sourceMappingURL=main.css.map */
